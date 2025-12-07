@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+torch==2.9.1+cpu
+pillow
+python-multipart
+open-clip-torch
